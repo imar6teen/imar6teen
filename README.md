@@ -1,5 +1,10 @@
-### Hi there 👋
+# Halo semua! 
 
+Perkenalkan nama saya **Aimar Anand**.
+
+Saya seorang **Mahasiswa** di Universitas Tadulako.
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](www.linkedin.com/in/aimar-anand-a2b66923/) ku ya.
 <!--
 **imar6teen/imar6teen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
