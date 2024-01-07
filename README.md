@@ -4,7 +4,7 @@ Perkenalkan nama saya **Aimar Anand**.
 
 Saya seorang **Mahasiswa** di Universitas Tadulako.
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](www.linkedin.com/in/aimar-anand-a2b66923/) ku ya.
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](www.linkedin.com/in/aimar-anand/) ku ya.
 
 <p align="left">
 <a href="https://github.com/imar6teen">
