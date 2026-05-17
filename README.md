@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=imar6teen&label=Profile%20views&color=0e75b6&style=flat" alt="imar6teen" />
 </p>
 
-I am a passionate **Informatics Student** at **Universitas Tadulako** with a deep interest in Artificial Intelligence and Machine Learning. Currently, I am honing my skills as a **Research Assistant**, focusing on developing intelligent solutions and exploring the vast landscape of AI Engineering.
+I am a passionate **Informatics Student** at **Institut Teknologi Bandung** with a deep interest in Artificial Intelligence and Machine Learning. Currently, I am honing my skills as a **Research Assistant**, focusing on developing intelligent solutions and exploring the vast landscape of AI Engineering.
 
 ---
 
@@ -12,7 +12,7 @@ I am a passionate **Informatics Student** at **Universitas Tadulako** with a dee
 - 🔭 **Currently working on:** Research Assistant projects involving data analysis and model development.
 - 🌱 **Learning Path:** Deepening my knowledge in **Large Language Models (LLMs)**, **Computer Vision**, and **AI System Deployment**.
 - 🎯 **Goal:** To become a proficient **AI Engineer** who builds impactful, real-world applications.
-- 🏛️ **Education:** Undergraduate student at Universitas Tadulako.
+- 🏛️ **Education:** Master's student at Institut Teknologi Bandung
 
 ---
 
